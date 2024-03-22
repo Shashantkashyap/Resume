@@ -1,0 +1,11 @@
+@keyframes subtle-background-animation {
+  0% { background-color: #FFFFFF; } /* Initial color */
+  50% { background-color: #F3F4F6; } /* Intermediate color */
+  100% { background-color: #FFFFFF; } /* Final color */
+}
+
+.home-container {
+  animation: subtle-background-animation 10s infinite; 
+}
+
+  

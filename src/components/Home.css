@@ -1,0 +1,7 @@
+.template-div:hover button {
+    display: block;
+  }
+
+  .template-div:hover .temp-highlight{
+    display: block;
+  }
