@@ -48,30 +48,39 @@ function About() {
           </p>
         </div>
         <div className="flex  gap-3 items-center">
+          <a href="https://www.facebook.com/shashant.kashyap">
           <div className=" w-[40px] h-[40px]">
             <img
               src="https://upload.wikimedia.org/wikipedia/commons/thumb/5/51/Facebook_f_logo_%282019%29.svg/1200px-Facebook_f_logo_%282019%29.svg.png"
               alt=""
             />
           </div>
+          </a>
+          <a href="https://www.linkedin.com/in/shashant-kashyap-b812a0155/">
           <div className=" w-[70px] h-[70px] mt-9">
             <img
               src="https://play-lh.googleusercontent.com/kMofEFLjobZy_bCuaiDogzBcUT-dz3BBbOrIEjJ-hqOabjK8ieuevGe6wlTD15QzOqw=w600-h300-pc0xffffff-pd"
               alt=""
             />
           </div>
+          </a>
+
+          <a href="https://github.com/Shashantkashyap">
           <div className=" w-[40px] h-[40px] mt-2">
             <img
-              src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6f/Logo_of_Twitter.svg/220px-Logo_of_Twitter.svg.png"
+              src="https://upload.wikimedia.org/wikipedia/commons/c/c2/GitHub_Invertocat_Logo.svg"
               alt=""
             />
           </div>
+          </a>
+          <a href="">
           <div className=" w-[50px] h-[50px]">
             <img
               src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6b/WhatsApp.svg/1200px-WhatsApp.svg.png"
               alt=""
             />
           </div>
+          </a>
         </div>
       </div>
     </div>
